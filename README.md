@@ -20,7 +20,7 @@ Nothing is committed, pushed, or published until you click **Approve & Push**.
 This is a standalone project: it operates on whatever repository you point it
 at, and keeps nothing inside that repository.
 
-## Giving it to your team
+## How to install and use the tool
 
 Build the distributable:
 
